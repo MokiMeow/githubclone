@@ -126,7 +126,7 @@ return (
                 </div>
             </div>
             <motion.div initial={{scale:0.9, opacity:0}} whileInView={{scale:1, opacity:1}} transition={{type:'tween'}} className='rounded-r-md overflow-hidden flex items-center'>
-                <img className="responsive js-build-in-item build-in-scale-fade build-in-animate origin-bottom-right" width="1288" height="992" loading="lazy" decoding="async" alt="" aria-hidden="true" src="/3.png" />
+                <img className="responsive js-build-in-item build-in-scale-fade build-in-animate origin-bottom-right" width="1288" height="992" loading="lazy" decoding="async" alt="" aria-hidden="true" src="https://github.githubassets.com/images/modules/site/home-campaign/illu-dependabot.png" />
             </motion.div>
             </HoverCard>
         </div>
